@@ -1,3 +1,5 @@
+![stopdaydreaming](stopdaydreaming.png)
+
 ### Hey Yall! 👋 I'm Lisa aka stopdaydreaming
 
 [![Website](https://img.shields.io/website?label=stopdaydreaming.com&style=for-the-badge&url=https%3A%2F%2Fstopdaydreaming.com)](https://stopdaydreaming.com)
