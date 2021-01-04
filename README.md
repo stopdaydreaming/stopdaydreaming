@@ -14,9 +14,9 @@ I'm a UI Engineer/Designer and a southern bell.
 - 💬 Ask me about: Hackathons or popular animated shows
 - 📫 How to reach me: hello@stopdaydreaming.com
 - 😄 Pronouns: she/her
-- ⚡ Hobbies: Visual Arts; painting, illustration, ceramics. Playing "Just Dance" and "Animal Crossing" on my Nintendo Switch
-- 🗣Connect: LinkedIn, Twitter, Website, Instagram
-- 💼I also freelance with my company [ONEDURWEB](https://onedurweb.com/)
+- ⚡  Hobbies: Visual Arts; painting, illustration, ceramics. Playing "Just Dance" and "Animal Crossing" on my Nintendo Switch
+- 🗣 Connect: LinkedIn, Twitter, Website, Instagram
+- 💼 I also freelance with my company [ONEDURWEB](https://onedurweb.com/)
 
 ---
 
