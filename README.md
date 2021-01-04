@@ -13,7 +13,7 @@ I'm a UI Engineer/Designer and a southern bell.
 - 🙌 &nbsp;2021 Goals: Contribute to Open Source Projects and speaking engagements
 - 💬 &nbsp;Ask me about: Hackathons or popular animated shows
 - 📫 &nbsp;How to reach me: hello@stopdaydreaming.com
-- 😄 &nbsp;Pronouns: she/her
+- 💅 &nbsp;Pronouns: she/her
 - ⚡  &nbsp;Hobbies: Visual Arts; painting, illustration, ceramics. Playing "Just Dance" and "Animal Crossing" on my Nintendo Switch
 - 🗣 &nbsp;Connect: LinkedIn, Twitter, Website, Instagram
 - 💼 &nbsp;I also freelance with my company [ONEDURWEB](https://onedurweb.com/)
