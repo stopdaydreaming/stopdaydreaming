@@ -7,16 +7,16 @@
 
 
 I'm a UI Engineer/Designer and a southern bell.
-- 🌱 Currently attending Georgia Tech Fullstack Bootcamp
-- 👯 Looking to collaborate with other developers and designers or any smart people
-- 🤔 Primarily working on JAMStack projects
-- 🙌 2021 Goals: Contribute to Open Source Projects and speaking engagements
-- 💬 Ask me about: Hackathons or popular animated shows
-- 📫 How to reach me: hello@stopdaydreaming.com
-- 😄 Pronouns: she/her
-- ⚡  Hobbies: Visual Arts; painting, illustration, ceramics. Playing "Just Dance" and "Animal Crossing" on my Nintendo Switch
-- 🗣 Connect: LinkedIn, Twitter, Website, Instagram
-- 💼 I also freelance with my company [ONEDURWEB](https://onedurweb.com/)
+- 🌱  Currently attending Georgia Tech Fullstack Bootcamp
+- 👯  Looking to collaborate with other developers and designers or any smart people
+- 🤔  Primarily working on JAMStack projects
+- 🙌  2021 Goals: Contribute to Open Source Projects and speaking engagements
+- 💬  Ask me about: Hackathons or popular animated shows
+- 📫  How to reach me: hello@stopdaydreaming.com
+- 😄  Pronouns: she/her
+- ⚡   Hobbies: Visual Arts; painting, illustration, ceramics. Playing "Just Dance" and "Animal Crossing" on my Nintendo Switch
+- 🗣  Connect: LinkedIn, Twitter, Website, Instagram
+- 💼  I also freelance with my company [ONEDURWEB](https://onedurweb.com/)
 
 ---
 
