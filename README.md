@@ -1,4 +1,4 @@
-![stopdaydreaming](stopdaydreaming_2.png)
+![stopdaydreaming](stopdaydreaming_3.png)
 
 ### Hey Yall! 👋&nbsp;I'm Lisa aka stopdaydreaming
 
