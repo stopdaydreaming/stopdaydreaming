@@ -1,4 +1,4 @@
-![stopdaydreaming](stopdaydreaming.png)
+![stopdaydreaming](stopdaydreaming_2.png)
 
 ### Hey Yall! 👋&nbsp;I'm Lisa aka stopdaydreaming
 
@@ -14,7 +14,7 @@ I'm a UI Engineer/Designer and a southern bell.
 - 💬 &nbsp;Ask me about: Hackathons or popular animated shows
 - 📫 &nbsp;How to reach me: hello@stopdaydreaming.com
 - 💅 &nbsp;Pronouns: she/her
-- ⚡  &nbsp;Hobbies: Visual Arts; painting, illustration, ceramics. Playing "Just Dance" and "Animal Crossing" on my Nintendo Switch
+- ⚡  &nbsp;Hobbies: Visual Arts; painting, illustration, ceramics. "Just Dance" champion and "Animal Crossing" addict
 - 🗣 &nbsp;Connect: LinkedIn, Twitter, Website, Instagram
 - 💼 &nbsp;I also freelance with my company [ONEDURWEB](https://onedurweb.com/)
 
