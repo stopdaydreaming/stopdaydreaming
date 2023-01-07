@@ -1,4 +1,4 @@
-![stopdaydreaming](stopdaydreaming_3b.png)
+![stopdaydreaming](https://stopdaydreaming.com/assets/images/stopdaydreaming_2023.png)
 
 ### Hey Yall! 👋&nbsp;I'm Lisa aka stopdaydreaming
 
