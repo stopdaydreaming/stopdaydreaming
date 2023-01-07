@@ -8,15 +8,22 @@
 I'm a UI Engineer/Designer and a southern bell.
 
 - 💅 &nbsp;She/Her
-- 🤓 &nbsp;Primarily working on Frontend/UI projects
-- 👯 &nbsp;I love to collaborate with other developers and designers or any smart people
-- 💬 &nbsp;Ask me about Hackathons or popular animated shows
-- 🗣 &nbsp;Connect with me on LinkedIn, Twitter, Instagram or my website
+- 🤓 &nbsp;Primarily working on frontend and UI projects
+- 👯 &nbsp;I love to collaborate and rubber duck
+- 💬 &nbsp;Ask me about hackathons or popular animated shows
+- 🗣 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/lisa-copeland-598404153/)
 - 👩🏽‍💻 &nbsp;Completed the Georgia Tech Fullstack Bootcamp Certification
-- 🙌 &nbsp;2022 Goals are to contribute to Open Source Projects and speaking engagements
+- 🙌 &nbsp;2023 Goals
+  - contribute to open source project(s)
+  - one or more tech speaking engagement
+  - host a hackathon
 - 💼 &nbsp;I also freelance with my company [ONEDURWEB](https://onedurweb.com/)
-- 🎨 &nbsp;I love Visual Arts (painting, illustration, ceramics)
-- 🤩 &nbsp;I am a "Just Dance" champion and "Animal Crossing" addict
+- 🎨 &nbsp;I love visual arts (painting, illustration, ceramics)
+- 🤩 &nbsp;My current favorite video games
+  - just dance
+  - animal crossing
+  - super mario world
+- 🐶 &nbsp;I have a sweet american bully named Bleu
 - 📧 &nbsp;Reach me at hello@stopdaydreaming.com
 
 ---
