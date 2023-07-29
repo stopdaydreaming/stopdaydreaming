@@ -7,7 +7,6 @@
 
 I'm a UI Engineer/Designer and a southern bell.
 
-- 💅 &nbsp;She/Her
 - 🤓 &nbsp;Primarily working on frontend and UI projects
 - 👯 &nbsp;I love to collaborate and rubber duck
 - 💬 &nbsp;Ask me about hackathons or popular animated shows
