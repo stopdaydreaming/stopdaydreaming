@@ -21,6 +21,7 @@ I'm a UI Engineer/Designer and a southern bell.
 - 🤩 &nbsp;My current favorite video games
   - just dance
   - animal crossing
+  - hello kitty island adventures
   - super mario world
 - 🐶 &nbsp;I have a sweet american bully named Bleu
 - 📧 &nbsp;Reach me at hello@stopdaydreaming.com
