@@ -1,31 +1,19 @@
 ![stopdaydreaming](https://stopdaydreaming.com/assets/images/stopdaydreaming-github-banner.png)
 
-### Hey Yall! 👋&nbsp;I'm Lisa aka stopdaydreaming
+### Hey Yall! 👋&nbsp;I'm Lisa
 
-[![Website](https://img.shields.io/website?label=stopdaydreaming.com&style=for-the-badge&url=https%3A%2F%2Fstopdaydreaming.com)](https://stopdaydreaming.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/stopdaydreaming?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstopdaydreaming&screen_name=stopdaydreaming)
-
-I'm a UI Engineer/Designer and a southern bell.
-
-- 🤓 &nbsp;Primarily working on frontend and UI projects
-- 👯 &nbsp;I love to collaborate and rubber duck
-- 💬 &nbsp;Ask me about hackathons or popular animated shows
+- 🤓 &nbsp;I am a big 'ol nerd
+- 👯 &nbsp;I love to collaborate
+- 💬 &nbsp;Ask me about hackathons, popular animated shows or anime
 - 🗣 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/lisa-copeland-598404153/)
-- 👩🏽‍💻 &nbsp;Completed the Georgia Tech Fullstack Bootcamp Certification
-- 🙌 &nbsp;2023 Goals
-  - contribute to open source project(s)
-  - one or more tech speaking engagement
-  - host a hackathon
-- 💼 &nbsp;I also freelance with my company [ONEDURWEB](https://onedurweb.com/)
+- 💼 &nbsp;I am also the founder of [ONEDURWEB Studio](https://onedurweb.com/)
 - 🎨 &nbsp;I love visual arts (painting, illustration, ceramics)
 - 🤩 &nbsp;My current favorite video games
   - just dance
   - animal crossing
   - hello kitty island adventures
   - super mario world
-- 🐶 &nbsp;I have a sweet american bully named Bleu
-- 📧 &nbsp;Reach me at hello@stopdaydreaming.com
-
+  - tamagotchi adventure kingdom
 ---
 
 ### Languages and Tools
