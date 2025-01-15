@@ -8,7 +8,7 @@
 - 🗣 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/lisa-copeland-598404153/)
 - 💼 &nbsp;I am also the founder of [ONEDURWEB Studio](https://onedurweb.com/)
 - 🎨 &nbsp;I love visual arts (painting, illustration, ceramics)
-- 🤩 &nbsp;My favorite *(current)* video games
+- 🤩 &nbsp;My favorite *current* video games
   - just dance
   - animal crossing
   - hello kitty island adventures
