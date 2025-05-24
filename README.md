@@ -6,7 +6,6 @@
 - 👯 &nbsp;I love to collaborate
 - 💬 &nbsp;Ask me about hackathons, popular animated shows or anime
 - 🗣 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/lisa-copeland-598404153/)
-- 💼 &nbsp;I am also the founder of [ONEDURWEB Studio](https://onedurweb.com/)
 - 🎨 &nbsp;I love visual arts (painting, illustration, ceramics)
 - 🤩 &nbsp;My favorite *current* video games
   - just dance
